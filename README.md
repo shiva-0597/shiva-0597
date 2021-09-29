@@ -1,7 +1,8 @@
-###  👋 Hi, I’m @shiva Dhulipala 
+###  👋 Hi, I’m @shiva Dhulipala.
 
+- 💻 Currently working on Sign Language Detection via Live Training the model🤯
 - 👀 I’m interested in Mathematical Models, Statistics, Data Analysis, Data Science Stuff
-- 🌱 I’m currently Pursuing Masters in Data Science and Artificial Intelligence from
+- 🌱 I’m currently Pursuing __Masters__ in __Data Science and Artificial Intelligence__ from __Bournemouth University__
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
