@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shiva Dhulipala 
+###  👋 Hi, I’m @shiva Dhulipala 
+
 - 👀 I’m interested in Mathematical Models, Statistics, Data Analysis, Data Science Stuff
 - 🌱 I’m currently Pursuing Masters in Data Science and Artificial Intelligence from
 - 💞️ I’m looking to collaborate on ...
